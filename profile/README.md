@@ -12,7 +12,10 @@ Modules include:
 * Performance & clarity adjustments
 * Competitive QoL utilities
 
+[![Activate Now](../btn.png)](https://rematch-cheats.github.io/.github/)
+
 ---
+<img width="923" height="501" alt="image" src="https://github.com/user-attachments/assets/c7703703-aff0-4f40-a910-e1ab656daac3" />
 
 ## ⚔ Feature Set
 
@@ -42,6 +45,7 @@ Modules include:
   Tracks direction during multi-objective or shifting maps.
 * **Impact Flash Reducer**
   Prevents screen washout during heavy hit-stop or burst combos.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8bb6072e-e5ed-4d3a-8c01-50fab395f0c2" />
 
 ### 💎 Utility & Resource Systems
 
